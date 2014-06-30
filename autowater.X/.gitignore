@@ -1,0 +1,10 @@
+build/
+nbproject/private/
+*.obj
+*.cmf
+*.cof
+*.hxl
+*.lst
+*.rlf
+*.sdb
+*.sym
